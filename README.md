@@ -42,7 +42,3 @@ Touchless brightness control for accessibility, presentations, or hygiene-sensit
 Notes
 Requires webcam and admin rights for brightness control.
 Works best on Windows/macOS with physical display controls.
-
-Author
-Your Name
-GitHub: @
